@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="amazon" />
-        <module name="AnnaNovas" />
-        <module name="Cnn" />
         <module name="Generic" />
-        <module name="ViceNews" />
+        <module name="Reuters" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,7 +16,8 @@
       <module name="buildframework" target="1.5" />
       <module name="Cnn" target="1.5" />
       <module name="Generic" target="1.5" />
-      <module name="ViceNews" target="1.5" />
+      <module name="Reuters" target="1.8" />
+      <module name="ViceNews" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

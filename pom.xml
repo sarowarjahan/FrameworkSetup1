@@ -14,6 +14,7 @@
         <module>Generic</module>
         <module>AnnaNovas</module>
         <module>ViceNews</module>
+        <module>Reuters</module>
     </modules>
 
     <dependencyManagement>
